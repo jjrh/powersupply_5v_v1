@@ -1,5 +1,5 @@
 * dual rail 5v regulated powersupply
-  The main target is the [[https://github.com/jjrh/PGA231][PGA2311]] however other devices
+  The main target is the [[http://github.com/jjrh/PGA231][PGA2311]] however other devices
   should work subsituting the LM7805 & LM7905 with appropiate
   parts
 
