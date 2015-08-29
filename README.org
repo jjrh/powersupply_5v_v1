@@ -1,0 +1,7 @@
+* dual rail 5v regulated powersupply
+  The main target is the PGA2311 however other devices
+  should work subsituting the LM7805 & LM7905 with appropiate
+  parts
+
+  based on:
+      http://elinux.org/RPi_5V_PSU_construction
