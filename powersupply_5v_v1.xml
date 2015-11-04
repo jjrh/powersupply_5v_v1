@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/home/jjrh/CODE/kicad/powersupply_5v_v1/powersupply_5v_v1.sch</source>
+    <date>Fri 23 Oct 2015 02:53:00 PM EDT</date>
+    <tool>Eeschema 0.201506172246+5766~23~ubuntu14.04.1-product</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>powersupply_5v_v1.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D2">
+      <value>MUR860G</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CB8B42</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>MUR860G</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CB8BFE</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>MUR860G</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CB8C40</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>MUR860G</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CB8C81</tstamp>
+    </comp>
+    <comp ref="T1">
+      <value>TRANSFO2</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="TRANSFO2"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CBB17B</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>LM7905CT/NOPB</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="powersupply_5v_v1-rescue" part="LM7905-RESCUE-powersupply_5v_v1"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CE5E33</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>FUSE</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="FUSE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CE7C40</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>1000uF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CE9156</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>1000uF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CE915C</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>1000uF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CE9162</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>1000uF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CE9168</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>C_Small</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CEA1B2</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>C_Small</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CEA8A0</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>C_Small</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CEC275</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>C_Small</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CEC867</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>10nF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CED7E0</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>10nF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CEDDEC</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>100nF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CEE42B</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>100nF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CEED6D</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>LM7805CT/NOPB</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="regul" part="7805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CEF6E0</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>100nF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF257A</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>10nF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF2580</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>470uF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF2586</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>TVS</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="TVS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF2592</tstamp>
+    </comp>
+    <comp ref="F2">
+      <value>FUSE</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="FUSE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF259E</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>1N4008</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF25A4</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF6396</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>R</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF6988</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>100nF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF93D0</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>10nF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="C_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF93D6</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>470uF</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF93DC</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>TVS</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="TVS"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF93E2</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="LED"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CF93EF</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>R_Small</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="R_Small"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CFCBA4</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>1N4008</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="D"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CFD812</tstamp>
+    </comp>
+    <comp ref="F3">
+      <value>FUSE</value>
+      <fields>
+        <field name="MANUFACTURER_PART">empty</field>
+      </fields>
+      <libsource lib="device" part="FUSE"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>55CFE438</tstamp>
+    </comp>
+    <comp ref="P2">
+      <value>POWER OUT</value>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>562BFAF3</tstamp>
+    </comp>
+    <comp ref="P1">
+      <value>AC_INPUT</value>
+      <libsource lib="conn" part="CONN_01X03"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>562C0389</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="conn" part="CONN_01X03">
+      <footprints>
+        <fp>Pin_Header_Straight_1X03</fp>
+        <fp>Pin_Header_Angled_1X03</fp>
+        <fp>Socket_Strip_Straight_1X03</fp>
+        <fp>Socket_Strip_Angled_1X03</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_01X03</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="TRANSFO2">
+      <fields>
+        <field name="Reference">T</field>
+        <field name="Value">TRANSFO2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AA" type="passive"/>
+        <pin num="2" name="AB" type="passive"/>
+        <pin num="3" name="SA" type="passive"/>
+        <pin num="4" name="SB" type="passive"/>
+        <pin num="5" name="SC" type="passive"/>
+        <pin num="6" name="SD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="TVS">
+      <description>Transient voltage suppressor diode (bi-directional)</description>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">TVS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="regul" part="7805">
+      <aliases>
+        <alias>LM7805</alias>
+        <alias>LM7812</alias>
+        <alias>78L05</alias>
+      </aliases>
+      <description>Linear Regulator +5V</description>
+      <docs>regulator\lm78xx.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">7805</field>
+      </fields>
+      <pins>
+        <pin num="GND" name="GND" type="input"/>
+        <pin num="VI" name="VI" type="input"/>
+        <pin num="VO" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="C_Small">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C?</fp>
+        <fp>C_????_*</fp>
+        <fp>C_????</fp>
+        <fp>SMD*_c</fp>
+        <fp>Capacitor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="CP">
+      <description>Polarised capacitor</description>
+      <footprints>
+        <fp>CP*</fp>
+        <fp>Elko*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="powersupply_5v_v1-rescue" part="LM7905-RESCUE-powersupply_5v_v1">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM7905-RESCUE-powersupply_5v_v1</field>
+      </fields>
+      <pins>
+        <pin num="GND" name="GND" type="input"/>
+        <pin num="VI" name="VI" type="input"/>
+        <pin num="VO" name="VO" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="LED">
+      <footprints>
+        <fp>LED-3MM</fp>
+        <fp>LED-5MM</fp>
+        <fp>LED-10MM</fp>
+        <fp>LED-0603</fp>
+        <fp>LED-0805</fp>
+        <fp>LED-1206</fp>
+        <fp>LEDV</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="D">
+      <description>Diode</description>
+      <footprints>
+        <fp>Diode_*</fp>
+        <fp>D-Pak_TO252AA</fp>
+        <fp>*SingleDiode</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="FUSE">
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">FUSE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="input"/>
+        <pin num="2" name="~" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R_Small">
+      <description>Resistor</description>
+      <footprints>
+        <fp>Resistor_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="powersupply_5v_v1-rescue">
+      <uri>/home/jjrh/CODE/kicad/powersupply_5v_v1/powersupply_5v_v1-rescue.lib</uri>
+    </library>
+    <library logical="regul">
+      <uri>/usr/share/kicad/library/regul.lib</uri>
+    </library>
+    <library logical="device">
+      <uri>/usr/share/kicad/library/device.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>/usr/share/kicad/library/conn.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/V+">
+      <node ref="D4" pin="1"/>
+      <node ref="C9" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C7" pin="1"/>
+      <node ref="C11" pin="1"/>
+      <node ref="U1" pin="VI"/>
+      <node ref="C5" pin="1"/>
+      <node ref="D2" pin="1"/>
+    </net>
+    <net code="2" name="/V-">
+      <node ref="C12" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="D3" pin="2"/>
+      <node ref="U2" pin="VI"/>
+      <node ref="C6" pin="2"/>
+    </net>
+    <net code="3" name="/REG_-5V">
+      <node ref="D10" pin="2"/>
+      <node ref="P2" pin="3"/>
+      <node ref="F3" pin="2"/>
+    </net>
+    <net code="4" name="/REG_+5V">
+      <node ref="F2" pin="2"/>
+      <node ref="P2" pin="1"/>
+      <node ref="D9" pin="1"/>
+    </net>
+    <net code="5" name="/0V">
+      <node ref="D8" pin="2"/>
+      <node ref="C8" pin="1"/>
+      <node ref="C7" pin="2"/>
+      <node ref="D5" pin="1"/>
+      <node ref="U2" pin="GND"/>
+      <node ref="D9" pin="2"/>
+      <node ref="C10" pin="1"/>
+      <node ref="U1" pin="GND"/>
+      <node ref="T1" pin="4"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C12" pin="1"/>
+      <node ref="T1" pin="5"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="D10" pin="1"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="D6" pin="2"/>
+      <node ref="C18" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C14" pin="1"/>
+      <node ref="R1" pin="2"/>
+      <node ref="P2" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="C5" pin="2"/>
+    </net>
+    <net code="6" name="/HOT">
+      <node ref="P1" pin="1"/>
+      <node ref="F1" pin="1"/>
+    </net>
+    <net code="7" name="/NETURAL">
+      <node ref="T1" pin="2"/>
+      <node ref="P1" pin="2"/>
+    </net>
+    <net code="8" name="Earth">
+      <node ref="P1" pin="3"/>
+    </net>
+    <net code="9" name="Net-(C13-Pad1)">
+      <node ref="D5" pin="2"/>
+      <node ref="C15" pin="1"/>
+      <node ref="D7" pin="2"/>
+      <node ref="F2" pin="1"/>
+      <node ref="C17" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="U1" pin="VO"/>
+    </net>
+    <net code="10" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="11" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C18" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="D6" pin="1"/>
+      <node ref="F3" pin="1"/>
+      <node ref="U2" pin="VO"/>
+    </net>
+    <net code="12" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1"/>
+    </net>
+    <net code="13" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2"/>
+    </net>
+    <net code="14" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2"/>
+      <node ref="T1" pin="6"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="15" name="Net-(F1-Pad2)">
+      <node ref="T1" pin="1"/>
+      <node ref="F1" pin="2"/>
+    </net>
+    <net code="16" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1"/>
+      <node ref="T1" pin="3"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D2" pin="2"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="17" name="Net-(D8-Pad1)">
+      <node ref="D8" pin="1"/>
+      <node ref="R2" pin="1"/>
+    </net>
+  </nets>
+</export>
