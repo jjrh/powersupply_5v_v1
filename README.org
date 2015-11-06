@@ -7,7 +7,12 @@
   #+NAME:   fig:0
   #+attr_html: :width 800px
   [[./images/powersupply_5v_v1.sch.png]]
-	
+
+  #+CAPTION: 2015-11-05 3d pcb layout
+  #+NAME:   fig:0
+  #+attr_html: :width 800px
+  [[./images/powersupply_5v_v1_3d1.png]]
+		
 	
   based on:
       http://elinux.org/RPi_5V_PSU_construction
